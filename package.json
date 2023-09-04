@@ -1,0 +1,31 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "bootstrap": "^5.3.1",
+    "chart.js": "^4.4.0",
+    "hchs-vue-charts": "^1.2.8",
+    "roboto-fontface": "*",
+    "vue": "^3.3.4",
+    "vue-chartjs": "^5.2.0",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-router": "^4.2.2",
+    "vuetify": "^3.3.13",
+    "vuex": "^4.1.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12",
+    "vue-cli-plugin-vuetify": "~2.5.8"
+  }
+}
