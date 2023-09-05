@@ -1,7 +1,7 @@
 <template>
       <div class="partner px-15 py-15 container d-flex align-items-center">
             <div class="degree with-50 d-flex justify-content-start">
-                  <img src="../image/Group 17 (1).png">
+                  <img src="../image/Group.png">
             </div>
             <div class="degree-text with-50">
                   <span class="span let d-block text-warning">SCHEDULE</span>

@@ -4,7 +4,7 @@
             <img src="../image/image2.svg">
             <img src="../image/image3.svg">
             <img src="../image/image4.svg">
-            <img src="../image/meundies-logo-freelogovectors 1.svg">
+            <img src="../image/image6.png">
             <img src="../image/image5.svg">
       </div>
 </template>

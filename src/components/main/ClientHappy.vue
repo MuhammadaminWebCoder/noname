@@ -5,7 +5,7 @@
             <div>
                   <div class="boxs justify-content-between d-flex my-5">
                         <div class="happy-box box-bg p-4 mt-5">
-                              <img class="mx-auto mb-2" src="../icons/Ellipse 24.svg">
+                              <img class="mx-auto mb-2" src="../icons/Ellipse24.svg">
                               <div class="d-flex justify-content-center my-3">
                                     <i :class="icon.icon" v-for="icon in icons" :key="icon.id"></i>
                               </div>
@@ -17,7 +17,7 @@
                               </span>
                         </div>    
                         <div class="happy-box box-bg mx-4 p-4 mt-5">
-                              <img class="mx-auto mb-2" src="../icons/Ellipse 25.png">
+                              <img class="mx-auto mb-2" src="../icons/Ellipse25.png">
                               <div class="d-flex justify-content-center my-3">
                                     <i :class="icon.icon" v-for="icon in icons" :key="icon.id"></i>
                               </div>
@@ -29,7 +29,7 @@
                               </span>
                         </div>      
                         <div class="happy-box box-bg p-4 mt-5">
-                              <img class="mx-auto mb-2" src="../icons/Ellipse 26.svg">
+                              <img class="mx-auto mb-2" src="../icons/Ellipse26.svg">
                               <div class="d-flex justify-content-center my-3">
                                     <i :class="icon.icon" v-for="icon in icons" :key="icon.id"></i>
                               </div>

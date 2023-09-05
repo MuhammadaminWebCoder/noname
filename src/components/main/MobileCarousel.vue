@@ -11,7 +11,7 @@
                   <a href="#" class="link text-primary">Learn more about publishing <i class="fal fa-long-arrow-right"></i></a>
             </div>
             <div class="degree with-50 d-flex justify-content-end">
-                  <img src="../image/Group 23.png">
+                  <img src="../image/Group23.png">
             </div>
       </div>
 </template>

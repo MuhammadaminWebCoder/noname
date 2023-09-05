@@ -1,7 +1,7 @@
 <template>
       <div class="content container">
             <div class="content-text with-50 me-3">
-                  <span class="d-block mb-4 text-primary"><img class="mb-2" src="./icons/Frame (3).svg"> Jump start your growth</span>
+                  <span class="d-block mb-4 text-primary"><img class="mb-2" src="../components/icons/Framef.svg"> Jump start your growth</span>
                   <span class="display-4 fw-bold">
                         We boost the growth <br>
                         for <span class="text-primary fw-bold">Startup</span> to Fortune <br>
